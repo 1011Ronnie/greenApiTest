@@ -44,4 +44,3 @@ npm run build
 ## GitHub Pages
 
 Адрес после публикации: [1011Ronnie.github.io/greenApiTest/](https://1011Ronnie.github.io/greenApiTest/).
-
